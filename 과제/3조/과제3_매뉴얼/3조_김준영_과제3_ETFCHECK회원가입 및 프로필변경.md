@@ -46,5 +46,5 @@ Link : [ETF CHECK 링크](https://www.etfcheck.co.kr/mobile/main)
 ![ETFcheck 아바타랑 닉네임 수정](https://github.com/jwahn/ksc_ojt_2023/blob/f688eeeaa5171d0cd7bdffe375d83463b5bb878a/%EA%B3%BC%EC%A0%9C/3%EC%A1%B0/%EA%B3%BC%EC%A0%9C3_%EB%A7%A4%EB%89%B4%EC%96%BC/img/KJY_etfcheck_profileimage.jpg)
 
 ---
-## 완료!
+## 🔶 완료!
 : joy:
