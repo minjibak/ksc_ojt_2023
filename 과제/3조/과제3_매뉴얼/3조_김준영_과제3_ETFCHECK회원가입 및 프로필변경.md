@@ -47,4 +47,4 @@ Link : [ETF CHECK 링크](https://www.etfcheck.co.kr/mobile/main)
 
 ---
 ## 🔶 완료!
-: joy:
+## 😊
