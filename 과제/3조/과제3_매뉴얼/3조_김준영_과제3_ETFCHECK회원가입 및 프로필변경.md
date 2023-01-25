@@ -1,20 +1,20 @@
 
 # ETF CHECK 프로필사진 바꾸기
-> # 작업순서(요약)
+># 🔶 작업순서(요약)
 ---
-
+<pre>
 1. ETF CHECK 접속 (PC)
 2. ETF CHECK 회원가입
 3. 내정보 접속하기
 4. 프로필수정
-
----
+</pre>
+---   
    
       
          
-# 상세순서
+# 🔶 상세순서
 > ##  가. 접속하기
-[ETF CHECK 링크](https://www.etfcheck.co.kr/mobile/main)
+Link : [ETF CHECK 링크](https://www.etfcheck.co.kr/mobile/main)
 
 > ## 나. 회원가입
 ## 좌측상단의 메뉴버튼을 클릭합니다.
