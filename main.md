@@ -114,6 +114,7 @@
 - [ITHUB](https://ithub.koscom.co.kr)
 - [CC](https://cc.koscom.co.kr)
 - [BACKTEST](https://backtest.koscom.co.kr)
+- CMS(사내 컴플라이언스 시스템)
 
 ...
 
@@ -242,10 +243,15 @@
 - git에 올리기
 > 3조_ㅇㅇㅇ_과제3_CHECK_TR2001_멋진_차트_20230125.md
 
+### 💦 과제4
+- [mermaid](https://mermaid.js.org/intro/) 문법을 활용하여 markdown 문서에 플로우차트 그려보기
+> **About Mermaid**   
+> Mermaid lets you create diagrams and visualizations using text and code.
+
 ***
 
 ## 🔶4. 전략과 태도
-> 위기와 기회, 모든 상황에서 나를 지켜 줄
+> 위기와 기회, 모든 상황에서 나를 지켜 줄 
 
 ### ➡️ 우리 회사를 정말 사랑하고 아끼는 직원A지만, 그럼에도 불구하고
 - 우리 회사는 좀 이런 느낌이
@@ -253,7 +259,7 @@
   - [두번째](./img/comp2.png)
   - [세번째](./img/comp3.jpeg)
   - [네번째](./img/comp4.png)
-  > 진리의 회바회+부바부 있음   
+  > 회사마다, 부서마다 다를 가능성 높음
 
 ### ➡️ 고민1. 선배직원에게 대답은 어떻게 하는게 좋을까?
 - [많은 이들이](./img/att11.png) [고민하는 주제](./img/att12.png)
