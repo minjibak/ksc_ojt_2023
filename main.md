@@ -257,6 +257,8 @@
 > **About Mermaid**   
 > Mermaid lets you create diagrams and visualizations using text and code.
 
+### 💦 과제1,2에도 md 문법 적용하여 더 보기 편하게 수정해보기
+
 ***
 
 ## 🔶4. 전략과 태도
