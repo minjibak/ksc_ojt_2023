@@ -76,9 +76,9 @@
   - ~~[VSCode](https://code.visualstudio.com/Download)~~
   - ~~VSCode extensions~~
     - ~~markdown all in one~~
+- ~~[CHECK Expert+](http://www.check.co.kr/)~~
 - git repository clone
   - [https://github.com/jwahn/ksc_ojt_2023.git](https://github.com/jwahn/ksc_ojt_2023.git)
-  - [CHECK Expert+](http://www.check.co.kr/)
   - [git](https://git-scm.com/downloads)
 - Mobile에서
   - [ETF CHECK](https://play.google.com/store/apps/details?id=com.koscom.etpportal&hl=ko&gl=US&pli=1) 설치
